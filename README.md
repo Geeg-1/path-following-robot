@@ -1,6 +1,6 @@
 # path-following-robot
 
-![Demo](./Path-following-robot-clip.gif)
+![Demo](./Path_following_robot_clip.gif)
 
 ## Overview
 An autonomous robotic vehicle featuring closed-loop speed control, quadrature encoder pulse decoding, and infrared barrier detection.
